@@ -1,0 +1,9 @@
+.custom-img-style {
+    /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); Aplicar sombra */
+    transition: opacity 0.3s, box-shadow 0.3s; /* Agregar transiciones suaves */
+  }
+  
+  .custom-img-style:hover {
+    opacity: 0.50; /* Cambiar la opacidad en hover */
+    /* box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.25); Cambiar la sombra en hover */
+  }
